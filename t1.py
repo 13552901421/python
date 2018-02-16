@@ -29,3 +29,4 @@ img.save('img2.png')
 
 time.sleep(10)
 driver.quit()
+print('a')
